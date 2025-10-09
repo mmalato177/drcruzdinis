@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cruzdinishair.com/</loc>
-    <priority>1.0</priority>
-  </url>
+  <loc>https://cruzdinishair.com/</loc>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://cruzdinishair.com/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://cruzdinishair.com/en/index.html"/>
+  <priority>1.0</priority>
+</url>
+
    <url>
     <loc>https://cruzdinishair.com/politicaeprivacidade.html</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://cruzdinishair.com/termosecondicoes.html</loc>
-    <priority>1.0</priority>
-  </url>
-   <url>
-    <loc>https://cruzdinishair.com/en/index.html</loc>
     <priority>1.0</priority>
   </url>
    <url>
