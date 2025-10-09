@@ -1283,6 +1283,15 @@ section.background.stats>.container {
   flex: 1;
 }
 
+.services .service-item .service-icon {
+  color: darksalmon;
+  font-size: 30px;
+}
+
+.services .service-item:hover .service-icon {
+  color: white;
+}
+
 /*--------------------------------------------------------------
 # Appointment Section
 --------------------------------------------------------------*/
