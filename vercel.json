@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "cruzdinishair.com"
+        }
+      ],
+      "destination": "https://www.cruzdinishair.com/$1",
+      "permanent": true
+    }
+  ]
+}
