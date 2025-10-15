@@ -13,10 +13,7 @@
     {
       "source": "/(.*)",
       "has": [
-        {
-          "type": "host",
-          "value": "cruzdinishair.com"
-        }
+        { "type": "host", "value": "cruzdinishair.com" }
       ],
       "destination": "https://www.cruzdinishair.com/:path*",
       "permanent": true
