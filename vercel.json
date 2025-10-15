@@ -11,7 +11,7 @@
       "permanent": true
     },
     {
-      "source": "/(.*)",
+      "source": "/:path*",
       "has": [
         { "type": "host", "value": "cruzdinishair.com" }
       ],
