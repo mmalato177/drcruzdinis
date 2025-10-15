@@ -6,7 +6,7 @@
   <url>
     <loc>https://www.cruzdinishair.com/</loc>
     <xhtml:link rel="alternate" hreflang="pt" href="https://www.cruzdinishair.com/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.cruzdinishair.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.cruzdinishair.com/en/"/>
     <priority>1.0</priority>
   </url>
 
@@ -29,7 +29,7 @@
   <!-- Página inicial (EN) -->
   <url>
     <loc>https://www.cruzdinishair.com/en/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.cruzdinishair.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.cruzdinishair.com/en/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://www.cruzdinishair.com/"/>
     <priority>1.0</priority>
   </url>

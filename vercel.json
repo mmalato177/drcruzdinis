@@ -1,14 +1,22 @@
 {
   "redirects": [
     {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/en/index.html",
+      "destination": "/en/",
+      "permanent": true
+    },
+    {
       "source": "/(.*)",
       "has": [
-        {
-          "type": "host",
-          "value": "cruzdinishair.com"
-        }
+        { "type": "host", "value": "cruzdinishair.com" },
+        { "type": "protocol", "value": "http" }
       ],
-      "destination": "https://www.cruzdinishair.com/$1",
+      "destination": "https://www.cruzdinishair.com/:path*",
       "permanent": true
     }
   ]
